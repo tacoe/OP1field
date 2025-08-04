@@ -1,9 +1,12 @@
-# OP-1 Field Remote Script for Ableton Live
-This is a simple remote script that adds intuitive basic ableton control to the OP-1 Field when used as a controller.
+# Better OP-1 Field Support for Ableton Live
+OP-1 Field works with Ableton Live out of the box, but only for basic not playing, not much else.  
+Install this script to enrich the functionality of your OP-1 Field as a controller so you don't have to reach for mouse or keyboard as much while you're building your songs. It adds:
+* Transport controls (play, stop, record)
+* Track toggles
+* Navigation in session view
+* Playhead control in arrange view
 
-By default, plugging in OP-1 Field only supports notes. Install this script to add a range of functionality including transport controls (play, stop, rec), session view navigation, and track toggles. OP-1's basic octave and pitch bend functionality is kept in place: left/right arrows to change octave, shift left/right arrow to pitchwheel down/up while playing.
-
-This script works with Ableton Live 12. It was tested on MacOS, but should work on Windows as well.
+This script works with Ableton Live 12 and was last tested against Ableton Live Suite 12.2.1. It was tested on MacOS 15.5, but should work on Windows as well.
 
 ## Installation
 1. Download and unzip 'OP1field.zip' from https://github.com/tacoe/OP1field/releases
