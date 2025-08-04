@@ -6,14 +6,14 @@ By default, plugging in OP-1 Field only supports notes. Install this script to a
 This script works with Ableton Live 12. It was tested on MacOS, but should work on Windows as well.
 
 ## Installation
-1. Download and unpack 'OP1field.zip' from https://github.com/tacoe/OP1field/releases
-2. Open Live and find "Places" in the left-hand browser. 
-3. Right-click an empty space in the list next to it, click 'New Folder' and name it "Remote Scripts". Skip this step if the folder already exists.
-4. In Finder or Explorer, locate the unzipped 'OP1Field' folder and drag it onto the "Remote Scripts" folder in Ableton Live.
+1. Download and unzip 'OP1field.zip' from https://github.com/tacoe/OP1field/releases
+2. Open Live and find "Places" in the left-hand browser, under that, select "User Library"
+3. In the list next to it (which has 'Clips', etc), right-click select 'New Folder' and name it "Remote Scripts". Skip this step if the folder already exists.
+4. Richt-click the folder and select 'Show in Finder', locate the unzipped 'OP1Field' folder and drag it into the "Remote Scripts" folder in Ableton Live.
 5. Close then re-open Live.
 
 ## Setup and operation
-* In Live's Preferences, go to 'Link, Tempo & MIDI', then in where you have your OP-1 selected as Input, click the Control Surface dropdown and select 'OP1Field'. Tap the PLAY button on your OP-1 Field to verify functionality.
+* In Live's Settings Dialog, go to 'Link, Tempo & MIDI', then select the Control Surface dropdown and select 'OP1Field', then in the 'Input' dropdown select 'OP-1'. Tap the PLAY button on your OP-1 Field to verify functionality: the song should start playing.
 * On your OP-1 Field, press SHIFT-COM, then 2 to go into CTRL mode. Hit SHIFT, turn the BLUE button until it says `01`, the OCHRE button until it says `REL`, and the gray button until it says `ON`.
 
 ## Usage
